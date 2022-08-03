@@ -1,0 +1,25 @@
+{
+  "name": "unit_tasts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrylavrentiev/unit_tasts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitrylavrentiev/unit_tasts/issues"
+  },
+  "homepage": "https://github.com/dmitrylavrentiev/unit_tasts#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "dependencies": {
+    "@types/jest": "^28.1.6"
+  }
+}

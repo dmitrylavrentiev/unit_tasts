@@ -1,0 +1,1 @@
+module.exports = arr => arr.filter(el => Number.isInteger(el)).map(String)
